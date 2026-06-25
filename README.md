@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   <h1>Hi, I'm Yamuna Yadav</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Data+Analyst+in+Progress;Python+Developer;ECE+Graduate;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=;ECE+Graduate;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ---
